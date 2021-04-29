@@ -35,3 +35,6 @@
 *.app
 
 .directory
+bin
+randomimage.bmp
+.DS_Store
